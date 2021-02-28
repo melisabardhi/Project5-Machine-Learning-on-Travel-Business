@@ -8,7 +8,7 @@ Machine Learning:
 - Explore data and perform feature engineering to increase correlation.
 - Measure the accuracy of Logistic Regression, Support Vector Machine, Decision Trees, Random Forest, K-Nearest Neighbors and Neural Network in predicting a cancellation.
 
-### Cancellations are less likely for venues with higher ratings and for those booked for domestic travel.
+### Cancellations are less likely for venues with higher ratings and for those booked for international travel.
 [![1.png](https://i.postimg.cc/d1yDRQ0W/1.png)](https://postimg.cc/47XJsgVt)
 
 ### Result: A cancellation happens 32% of the time and the Decision Tree was best at predicting it with an F1 of .37.
