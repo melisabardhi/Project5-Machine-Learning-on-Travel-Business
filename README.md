@@ -11,7 +11,7 @@ Machine Learning:
 ### Cancellations are less likely for venues with higher ratings and for those booked for domestic travel.
 [![1.png](https://i.postimg.cc/d1yDRQ0W/1.png)](https://postimg.cc/47XJsgVt)
 
-### Result: A cancellation happens 32% of the time and the Decision Tree was best at predicting it with an F1 of .37.
+### Result: The Decision Tree was 37% more predictive than a baseline model.
 
 
 ## 2) Classify Bookings
@@ -26,4 +26,4 @@ Machine Learning:
 ### Clusters 0 and 3 were the most differentiated in terms of reviews and price.
 [![3.png](https://i.postimg.cc/Hs42dB3Z/3.png)](https://postimg.cc/PPJZMbgY)
 
-### Result: The Random Forest was 56% more predictive than a dummy model.
+### Result: The Random Forest was 56% more predictive than a baseline model.
