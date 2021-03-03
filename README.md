@@ -20,10 +20,10 @@ Business goal: Segment customers into clusters to effectively market to them so 
 Machine Learning: 
 - Use K-means and principal component analysis to cluster bookings in similar groups.
 - Measure the performance of 5 algorithms using F1 score and processing time. 
-- Perform gridseach on the best 3 algorithms (Decision Tree, Random Forest and K-Nearest Neighbors) to determine optimal hyper-parameters.
+- Perform grid-search on the best 3 algorithms (Decision Tree, Random Forest and K-Nearest Neighbors) to determine optimal hyper-parameters.
 
 
-### Clusters 0 and 3 were the most differentiated in terms of reviews and price.
-[![3.png](https://i.postimg.cc/Hs42dB3Z/3.png)](https://postimg.cc/PPJZMbgY)
+### Clusters 0 and 4 were the most differentiated in terms of reviews and price.
+[![1.png](https://i.postimg.cc/26HPWS1c/1.png)](https://postimg.cc/XGCHS3cd)
 
-### Result: The Random Forest was 56% more predictive than a baseline model.
+### Result: The Decision Tree was 56% more predictive than a baseline model.
