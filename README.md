@@ -1,4 +1,9 @@
 # Machine Learning on a Travel Business
+
+## Tools Used 
+Python, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+
+## Introduction
 This project aims to analyze data on a travel business' booked venues in order to predict cancellations and classify transactions. 
 
 ## 1) Predict Venue Cancellations
@@ -9,7 +14,7 @@ Machine Learning:
 - Measure the accuracy of Logistic Regression, Support Vector Machine, Decision Trees, Random Forest, K-Nearest Neighbors and Neural Network in predicting a cancellation.
 
 ### Cancellations are less likely for venues with higher ratings and for those booked for international travel.
-[![1.png](https://i.postimg.cc/d1yDRQ0W/1.png)](https://postimg.cc/47XJsgVt)
+![Screenshot](5.1.png)
 
 ### Result: The Decision Tree was 37% more predictive than a baseline model.
 
@@ -24,6 +29,6 @@ Machine Learning:
 
 
 ### Clusters 0 and 4 were the most differentiated in terms of reviews and price.
-[![1.png](https://i.postimg.cc/26HPWS1c/1.png)](https://postimg.cc/XGCHS3cd)
+![Screenshot](5.2.png)
 
 ### Result: The Decision Tree was 56% more predictive than a baseline model.
